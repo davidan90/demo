@@ -1,0 +1,60 @@
+{
+    "clothes": [
+        {
+            "id": "1a",
+            "title": "T-shirt",
+            "color": "blue",
+            "releaseDate": 884214000000,
+            "description": "Mauris finibus commodo malesuada. Vestibulum porttitor, massa a gravida faucibus, augue velit tristique libero, sit amet scelerisque tortor erat ut velit. Praesent orci tellus, aliquam id felis vitae, laoreet facilisis.",
+            "price": 3
+        },
+        {
+            "id": "7p",
+            "title": "T-shirt",
+            "color": "black",
+            "releaseDate": 946854000000,
+            "description": "Donec facilisis quis risus ut blandit. Morbi iaculis vel nisi ut cursus. In vel imperdiet odio, imperdiet mollis diam. Nulla vulputate orci arcu, sed tincidunt est tempor et. Aenean at.",
+            "price": 2
+        },
+        {
+            "id": "2e",
+            "title": "Jacket",
+            "color": "black",
+            "releaseDate": 1212271200000,
+            "description": "Curabitur eget magna dui. Nam risus ligula, sagittis eget malesuada eu, blandit eget urna. Sed dignissim ante id quam feugiat, eget dictum libero sollicitudin. Aliquam a urna nec leo efficitur facilisis.",
+            "price": 5
+        },
+        {
+            "id": "9t",
+            "title": "Jeans",
+            "color": "blue",
+            "releaseDate": 1341093600000,
+            "description": "Maecenas porta orci interdum lacus varius, at egestas turpis consequat. Mauris ac condimentum metus. Aenean viverra interdum porta. Nunc laoreet a libero sed finibus. Suspendisse vitae dictum magna. In ut elementum.",
+            "price": 4.50
+        },
+        {
+            "id": "6p",
+            "title": "T-shirt",
+            "color": "white",
+            "releaseDate": 946854000000,
+            "description": "In mollis ipsum quis interdum bibendum. Sed sed quam vehicula nunc interdum vestibulum vel quis quam. Nulla sed sagittis odio. Etiam ultricies venenatis elit, quis rhoncus magna commodo nec. Aliquam.",
+            "price": 2
+        },
+        {
+            "id": "6t",
+            "title": "Jeans",
+            "color": "black",
+            "releaseDate": 1341093600000,
+            "description": "Duis ex ex, porta vitae pellentesque nec, lobortis id eros. Ut rutrum gravida purus, vitae vestibulum magna aliquet ac. Vestibulum in ornare augue. Aenean pellentesque odio at sodales tempor. Aliquam at rhoncus risus. Ut semper orci.",
+            "price": 4.20
+        },
+        {
+            "id": "3n",
+            "title": "Cap",
+            "color": "green",
+            "releaseDate": 924127200000,
+            "description": "Pellentesque quis semper mauris. Mauris pretium lobortis ligula, a dictum ante. Praesent vulputate arcu ac orci pretium facilisis. Ut dictum, quam ac interdum rhoncus, tortor metus feugiat nulla, vel semper.",
+            "price": 1.20
+        }
+    ]
+  }
