@@ -1,2 +1,2 @@
-# blockbuster
-Fake blockbuster db
+# Demo
+Fake demo db
